@@ -1,0 +1,54 @@
+.header_content .menu > li.current-menu-item > a {
+    background-color: #151D86;
+    color: #fff;
+}
+
+.awe-btn.awe-btn-13 {
+    border: 2px solid #e1bd85;
+    background-color: #e1bd85;
+    color: #fff;
+}
+
+.awe-overlay {
+    background-color: rgba(0,0,0,0.1);
+}
+.bg-9{
+    background-image: url('images/banner/img-1.jpg');
+}
+.rooms-index .bg-9 {
+    background-image: url('images/banner/img-1.jpg');
+}
+
+.page-events .bg-9 {
+    background-image: url('images/banner/img-1.jpg');
+}
+
+.page-dining .bg-9 {
+    background-image: url('images/banner/img-1.jpg');
+}
+
+.page-facilities .bg-9, .page-health-club .bg-9 {
+    background-image: url('images/banner/img-1.jpg');
+}
+
+.page-offers .bg-9{
+    background-image: url('../images/banner/img-1.jpg');
+}
+
+.page-weddings .bg-9{
+    background-image: url('../images/banner/img-1.jpg');
+}
+
+.bg-13 {
+    background-image: url('..images/banner/img-1.jpg');
+}
+
+.bg-14 {
+    background-color: #f1f1f1;
+   /* background-image: url('../../images/image13.jpg');*/
+    background-image: none;
+}
+
+.page-weddings .text {
+    margin-top: 5px;
+}
